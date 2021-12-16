@@ -1,5 +1,4 @@
-# Self Portofolio
-## Responsive Online CV
+# Self Portofolio ##- ## Responsive Online CV
 
 <a href="https://mohamadrido.github.io/self-portofolio">Self Portofolio</a> is Responsive Online CV layout concept for online portofolio/resume with features:
 
@@ -9,7 +8,7 @@
    - 404 not found.
    - SEO tag.
 
-You can fork and use this theme from here, feel free to removing the footer credit. If you can support me, you can donate to my <a href="https://paypal.me/mohamadrido">PayPal</a>.
+You can fork and use this theme from here, feel free to removing the footer credit. If you want to support me, you can just buy me a coffee to my <a href="https://paypal.me/mohamadrido">PayPal</a>.
 
 ## Quick Start Guide
 
