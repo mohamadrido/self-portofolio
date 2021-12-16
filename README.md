@@ -1,4 +1,5 @@
-# Self Portofolio ##- ## Responsive Online CV
+# Self Portofolio 
+## Responsive Online CV
 
 <a href="https://mohamadrido.github.io/self-portofolio">Self Portofolio</a> is Responsive Online CV layout concept for online portofolio/resume with features:
 
