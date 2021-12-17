@@ -15,4 +15,4 @@ You can fork and use this concept, feel free to removing the footer credit. If y
 
    <b>1.</b> Fork this <a href="https://mohamadrido.github.io/self-portofolio">Self Portofolio</a>, if you don't know click <a href="https://github.com/mohamadrido/self-portofolio/fork">here</a> and fork it.<br/>
    <b>2.</b> Go to the "Settings" scroll down to GitHub Pages > Source, and select the <i>main</i> Branch and Save it.<br/>
-   <b>3.</b> Back to the main repository, and select to edit <i>_config.yml</i> and <i>index.html</i> file.
+   <b>3.</b> Back to the main repository, select to edit <i>_config.yml</i> and <i>index.html</i> file.
